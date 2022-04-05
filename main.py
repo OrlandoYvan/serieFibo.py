@@ -10,7 +10,7 @@ def main():
   import os
   estado = True
   while estado:
-    os.system('cls')
+    os.system('clear')
     print("Programa que genera la serie Fibonacci.")
     print("-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-")
     try:
